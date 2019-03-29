@@ -1,0 +1,86 @@
+[INFO] 00:00:20:743 Logger/(23453:23453): Soy un log
+[INFO] 00:00:20:746 Logger/(23453:23453): Hola, soy un valor
+[INFO] 00:41:43:521 Logger/(24468:24468): Soy un log
+[INFO] 00:41:43:533 Logger/(24468:24468): Hola, soy un valor
+[INFO] 00:41:49:188 Logger/(24468:24468): hola
+[INFO] 00:41:52:993 Logger/(24468:24468): como
+[INFO] 00:41:55:280 Logger/(24468:24468): te va
+[INFO] 00:42:31:350 Logger/(24468:24468): 
+[INFO] 00:42:35:384 Logger/(24468:24468): kxc
+[INFO] 00:42:37:198 Logger/(24468:24468): 
+[INFO] 00:42:39:957 Logger/(24468:24468): 
+[INFO] 00:42:41:301 Logger/(24468:24468):  
+[INFO] 00:42:42:376 Logger/(24468:24468):  
+[INFO] 00:50:11:265 Logger/(24871:24871): Soy un log
+[INFO] 00:50:39:912 Logger/(24871:24871): Hola, soy un valor
+[INFO] 00:51:40:427 Logger/(24871:24871): hola
+[INFO] 00:54:31:867 Logger/(24871:24871): 
+[INFO] 00:56:06:469 Logger/(24871:24871): 
+[INFO] 00:57:15:668 Logger/(24871:24871): hola
+[INFO] 01:01:35:92 Logger/(25097:25097): Soy un log
+[INFO] 01:01:35:116 Logger/(25097:25097): Hola, soy un valor
+[INFO] 01:01:39:99 Logger/(25097:25097): hola
+[INFO] 09:39:12:807 Logger/(25510:25510): Soy un log
+[INFO] 09:39:12:808 Logger/(25510:25510): Hola, soy un valor
+[INFO] 11:13:56:62 Logger/(28817:28817): Soy un log
+[INFO] 11:13:56:73 Logger/(28817:28817): Hola, soy un valor
+[INFO] 11:13:56:73 Logger/(28817:28817): 127.0.0.1
+[INFO] 11:13:56:73 Logger/(28817:28817): 4444
+[INFO] 11:14:00:936 Logger/(28817:28817): hola
+[INFO] 11:14:52:400 Logger/(28854:28854): Soy un log
+[INFO] 11:14:54:452 Logger/(28854:28854): Hola, soy un valor
+[INFO] 11:14:54:453 Logger/(28854:28854): 127.0.0.1
+[INFO] 11:14:54:453 Logger/(28854:28854): 4444
+[INFO] 11:15:13:697 Logger/(28854:28854): hola
+[INFO] 11:16:07:758 Logger/(28937:28937): Soy un log
+[INFO] 11:16:10:20 Logger/(28937:28937): Hola, soy un valor
+[INFO] 11:16:10:21 Logger/(28937:28937): 127.0.0.1
+[INFO] 11:16:10:22 Logger/(28937:28937): 4444
+[INFO] 11:17:22:245 Logger/(29005:29005): Soy un log
+[INFO] 11:17:37:649 Logger/(29005:29005): Hola, soy un valor
+[INFO] 11:17:40:964 Logger/(29005:29005): 127.0.0.1
+[INFO] 11:17:42:542 Logger/(29005:29005): 4444
+[INFO] 11:18:18:471 Logger/(29095:29095): Soy un log
+[INFO] 11:18:28:110 Logger/(29095:29095): Hola, soy un valor
+[INFO] 11:18:28:111 Logger/(29095:29095): 127.0.0.1
+[INFO] 11:18:28:111 Logger/(29095:29095): 4444
+[INFO] 11:19:30:721 Logger/(29172:29172): Soy un log
+[INFO] 11:19:31:461 Logger/(29172:29172): ЂАьсяї
+[INFO] 11:19:31:462 Logger/(29172:29172): ААЂАьсяї
+[INFO] 11:19:31:462 Logger/(29172:29172): 8АЂАьсяї
+[INFO] 11:21:46:952 Logger/(29328:29328): Soy un log
+[INFO] 11:21:48:407 Logger/(29328:29328): Hola, soy un valor
+[INFO] 11:21:48:407 Logger/(29328:29328): 127.0.0.1
+[INFO] 11:21:48:407 Logger/(29328:29328): 4444
+[INFO] 11:22:35:213 Logger/(29403:29403): Soy un log
+[INFO] 11:22:36:560 Logger/(29403:29403): Hola, soy un valor
+[INFO] 11:22:36:560 Logger/(29403:29403): 127.0.0.1
+[INFO] 11:22:36:560 Logger/(29403:29403): 4444
+[INFO] 11:26:35:849 Logger/(29527:29527): Soy un log
+[INFO] 11:27:02:700 Logger/(29589:29589): Soy un log
+[INFO] 11:27:05:430 Logger/(29589:29589): Hola, soy un valor
+[INFO] 11:27:05:430 Logger/(29589:29589): 127.0.0.1
+[INFO] 11:27:05:431 Logger/(29589:29589): 4444
+[INFO] 11:28:18:765 Logger/(29670:29670): Soy un log
+[INFO] 11:28:28:691 Logger/(29670:29670): Hola, soy un valor
+[INFO] 11:28:32:212 Logger/(29670:29670): 127.0.0.1
+[INFO] 11:28:40:190 Logger/(29670:29670): 4444
+[INFO] 11:30:44:773 Logger/(29805:29805): Soy un log
+[INFO] 11:30:46:760 Logger/(29805:29805): Hola, soy un valor
+[INFO] 11:30:46:760 Logger/(29805:29805): 127.0.0.1
+[INFO] 11:30:46:760 Logger/(29805:29805): 4444
+[INFO] 11:33:44:308 Logger/(29905:29905): Soy un log
+[INFO] 11:36:50:109 Logger/(30003:30003): Soy un log
+[INFO] 11:37:23:717 Logger/(30003:30003): Hola, soy un valor
+[INFO] 11:37:58:737 Logger/(30003:30003): 127.0.0.1
+[INFO] 11:38:47:637 Logger/(30003:30003): 4444
+[INFO] 11:39:13:979 Logger/(30142:30142): Soy un log
+[INFO] 11:39:26:713 Logger/(30142:30142): Hola, soy un valor
+[INFO] 11:39:28:750 Logger/(30142:30142): 127.0.0.1
+[INFO] 11:39:41:590 Logger/(30142:30142): 4444
+[INFO] 11:41:37:130 Logger/(30142:30142): hola
+[INFO] 11:41:48:236 Logger/(30142:30142): como te va
+[INFO] 15:24:47:966 Logger/(3898:3898): Soy un log
+[INFO] 15:24:47:972 Logger/(3898:3898): Hola, soy un valor
+[INFO] 15:24:47:973 Logger/(3898:3898): 127.0.0.1
+[INFO] 15:24:47:973 Logger/(3898:3898): 4444
